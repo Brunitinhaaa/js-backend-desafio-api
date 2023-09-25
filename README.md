@@ -1,6 +1,4 @@
-![](https://i.imgur.com/xG74tOh.png)
-
-# Desafio Módulo 2 - Back-end
+# Desafio - Back-end
 
 ![giphy](https://github.com/Brunitinhaaa/Site-Petshop/assets/104976135/4e55f474-3f4a-4d8b-be8c-a76980f20989)
 
@@ -27,7 +25,6 @@ Foi feita a construção de uma API RESTful que permite:
 
 <img width="30%" src=https://github.com/Brunitinhaaa/TCC-sistema-presenca-RFID/assets/104976135/e360faa3-5316-45fe-8c49-e77e8843ebea>
 
-
 <h1>Persistência de Dados</h1>
 Os dados serão persistidos em memória, no objeto existente dentro do arquivo `bancodedados.js`. 
 
@@ -41,8 +38,3 @@ Os dados serão persistidos em memória, no objeto existente dentro do arquivo `
 - **403 (Forbidden):** O usuário não tem permissão de acessar o recurso solicitado
 - **404 (Not Found):** O servidor não pode encontrar o recurso solicitado
 - **500 (Internal Server Error):** Falhas causadas pelo servidor
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 6cf5e4dbe74b716da8b554e38dd54191fcf0f38f
